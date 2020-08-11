@@ -1,0 +1,24 @@
+{
+  "name": "node-tutorial",
+  "version": "1.0.0",
+  "description": "断断续续",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silence717/node-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silence717/node-tutorial/issues"
+  },
+  "homepage": "https://github.com/silence717/node-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
